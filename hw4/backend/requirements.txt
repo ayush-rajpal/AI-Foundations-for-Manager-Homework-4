@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+phonenumbers
+pydantic-ai-slim[openai]
+python-dotenv

@@ -1,0 +1,32 @@
+# Secrets: the real .env is never committed (see .env.example)
+.env
+.env.*
+!.env.example
+
+# Course data: the database and product photos are not published.
+# Only data/README.md (setup instructions) is kept.
+data/*
+!data/README.md
+data.zip
+*.db
+*.db-journal
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / Vite
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Logs, OS and editor files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
