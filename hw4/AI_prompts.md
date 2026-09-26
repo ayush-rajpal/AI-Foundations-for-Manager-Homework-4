@@ -521,3 +521,9 @@ we are moving to problem 13: push to github and submit the URL - push the folder
 ```text
 push again so the prompt log is included
 ```
+
+### Prompt 3
+
+```text
+and github has all the files right? once an Ai missed uploading some important files so I lost soime marks
+```
