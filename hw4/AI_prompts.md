@@ -515,3 +515,9 @@ update the output/harness.md file s - add details about 1. model fields in model
 ```text
 we are moving to problem 13: push to github and submit the URL - push the folder homework 4 as hw4 on github on a public respository names AI Foundations for Manager - Homework 4 Do not put .env, campus_customs.db, or product images in the github. Use .gitignore and nclude .env.example with placeholders only.
 ```
+
+### Prompt 2
+
+```text
+push again so the prompt log is included
+```
